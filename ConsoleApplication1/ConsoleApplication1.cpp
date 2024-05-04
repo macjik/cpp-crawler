@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 #include <curl/curl.h>
+#include <regex>
 
 using namespace std;
 
@@ -14,7 +15,13 @@ int main(void)
 {
     CURL* curl;
     CURLcode res;
-    string readBuffer, url;
+    string readBuffer, url, name, password;
+
+    cout << "Enter your name: ";
+    getline(cin, name);
+
+    cout << "Enter password: ";
+    getline(cin, password);
 
     cout << "Enter the URL for crawling: ";
     getline(cin, url);
@@ -33,7 +40,13 @@ int main(void)
         }
         curl_easy_cleanup(curl);
 
-        cout << readBuffer << endl;
+        string html = readBuffer;
+
+        //regex r("")
+
+        cout << html << endl;
+        cout << "Your name" << name;
+        cout << "password" << password;
     }
     else {
         cerr << "Failed to initialize cURL." << endl;
