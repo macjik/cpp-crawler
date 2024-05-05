@@ -1,0 +1,22 @@
+User: asdsad
+Password: wwwddddwdwd
+Content: 
+ The curl project mostly provides source packages. Other packages are kindly
+ provided by external persons and organizations.
+
+
+ 
+
+
+
+
+ 
+
+ If you have newer archives or archives for platforms not already present in
+ this table, we'd like to add them to this table with a pointer to your
+ location. Mail 
+
+    The official curl docker images are available at:
+    
+
+URL: https://curl.se/download.html

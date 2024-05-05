@@ -1,0 +1,18 @@
+User: asd
+Password: 3232323323
+Content: This tutorial provides a comprehensive guide to understanding how different types of data are stored and manipulated in C++ programming languages. Learn about integers, floats, characters, and more, as well as how to declare and use variables effectively.
+This tutorial provides a comprehensive guide to understanding how differ\",\"thumbnail\":\"https:\/\/media.geeksforgeeks.org\/auth-dashboard-uploads\/video_02082021.png\"},\"subtitle\":\"https:\/\/cdnvideos.geeksforgeeks.org\/subtitles\/1055232382ef2e5f254ab742a9eca23cgfg--20210407--copy--1055232382ef2e5f254ab742a9eca23cgfg-Variables-And-Data-Types-In-CPP.vtt\",\"duration\":892,\"post_list\":[{\"post_id\":147100,\"post_title\":\"C++ Data Types\"},{\"post_id\":320263,\"post_title\":\"Variables in C++\"}],\"course_link\":\"https:\/\/practice.geeksforgeeks.org\/courses\/cpp-programming-basic-to-advanced?utm_source=geeksforgeeks&utm_medium=article_tab_visit_course&utm_campaign=gfg_cppfoundation\",\"views\":\"85470\",\"video_schema\":{\"@context\":\"https:\/\/schema.org\",\"@type\":\"VideoObject\",\"name\":\"Variables and Data Types  Video\",\"description\":\"This tutorial provides a comprehensive guide to understanding how different types of data are stored and manipulated in C programming languages. Learn about integers, floats, characters, and more, as well as how to declare and use variables effectively.\",\"thumbnailUrl\":[\"https:\/\/media.geeksforgeeks.org\/auth-dashboard-uploads\/video_02082021.png\"],\"uploadDate\":\"2019-10-15T14:18:28Z\",\"duration\":\"PT0H14M52S\",\"contentUrl\":\"https:\/\/www.geeksforgeeks.org\/videos\/variables-and-data-types-video-fby59r\/\"}}");
+                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+
+${suggest_val}
+
+URL: https://www.geeksforgeeks.org/cpp-data-types/

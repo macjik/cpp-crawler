@@ -1,0 +1,35 @@
+User: test
+Password: aefaefaefaef
+Content: In this article, the Derived Data Type is explained:
+The data types that are derived from the primitive or built-in datatypes are referred to as Derived Data Types. These can be of four types namely:
+Let&#8217;s briefly understand each of the following derived datatypes:
+A 
+The below example demonstrates the use of function in C++.
+                                    
+                                    
+                                    
+
+An
+The below example demonstrates the use of array in C++.
+                                    
+                                    
+                                    
+
+
+for example: int *ptr; (ptr points to an addresswhich holds int data).
+The below example demonstrates the use of class in C++.
+                                    
+                                    
+                                    
+
+When a variable is declared as 
+The below example demonstrates the use of reference in C++.
+                                    
+                                    
+                                    
+
+Derived data types in C++ are functions, arrays, pointers, and references offer so many useful tools to handle data. Functions let us write the reusable code. Arrays help manage multiple items and data very efficiently. Pointers allows the flexible memory use and also referencing. References provide a way to create alias and simpler ways to work with variables. Overall, these derived datatypes make C++ coding more systematic and effective.
+
+${suggest_val}
+
+URL: https://www.geeksforgeeks.org/derived-data-types-in-c/?ref=lbp
